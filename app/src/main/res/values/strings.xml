@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YouTubeApiDemo</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="camara">Camera</string>
+    <string name="fav">Favorates</string>
+    <string name="profile">Profile</string>
+</resources>
