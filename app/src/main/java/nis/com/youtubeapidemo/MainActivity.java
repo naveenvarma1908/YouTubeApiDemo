@@ -38,7 +38,7 @@ public class MainActivity extends YouTubeBaseActivity{
         youTubePlayerView = (YouTubePlayerView)findViewById(R.id.YoutubeplayerView);
 
 
-        //Event Handling for YouTubePlayer
+        //Event Handling for youtubeplayer
 
         onInitializedListen = new YouTubePlayer.OnInitializedListener() {
             @Override

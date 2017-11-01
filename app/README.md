@@ -4,7 +4,7 @@ This a simple youtube player which includes the Youtube helper api to get the mo
 
 
 ### Preview in Portrait Mode
-![screenshot-1](src/main/res/drawable/YouTubePlayer.gif)    
+![screenshot-1](src/main/res/drawable/youtubeplayer.gif)    
 
 
 ### Usage
